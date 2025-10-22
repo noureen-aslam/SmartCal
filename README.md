@@ -1,2 +1,10 @@
-# SmartCal-App
-Track your meals, count calories, and stay fit — all in one smart app! SmartCal helps you monitor what you eat every day by making calorie tracking simple, fast, and accurate. Designed with an easy-to-use interface and helpful features, it’s your personal health assistant on the go.
+# SmartCal — Smart Calorie Counter App
+
+Track your meals, count calories, and stay fit — all in one smart app!
+
+## How to run
+1. Open in Android Studio.
+2. Build & run on emulator or device.
+
+## Notes
+- Keystore is not included.

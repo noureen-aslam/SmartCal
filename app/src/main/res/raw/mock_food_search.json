@@ -1,0 +1,6 @@
+{
+  "hits": [
+    {"name": "Chicken Breast", "kcalPer100g": 165, "brand": "Generic"},
+    {"name": "Grilled Chicken", "kcalPer100g": 180}
+  ]
+}

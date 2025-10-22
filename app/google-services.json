@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555498733661",
+    "project_id": "smartcal-d3d8c",
+    "storage_bucket": "smartcal-d3d8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555498733661:android:5d8dc76ea7f853cf860db4",
+        "android_client_info": {
+          "package_name": "com.example.smartcal.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkHsQwy7hrOHi2IW4nyK0AxR30QlE9Egk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

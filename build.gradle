@@ -1,0 +1,16 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // AGP compatible with Gradle 9.1 / Gradle wrapper you are using
+        classpath "com.android.tools.build:gradle:8.4.1"
+        // Google services (if you use Firebase)
+        classpath "com.google.gms:google-services:4.3.15"
+    }
+}
+
+tasks.register('clean', Delete) {
+    delete rootProject.buildDir
+}

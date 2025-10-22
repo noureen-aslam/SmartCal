@@ -1,0 +1,10 @@
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="background_beige">#F5F5DC</color> <!-- Beige -->
+    <color name="button_green">#4CAF50</color>    <!-- Green -->
+    <color name="button_text">#FFFFFF</color>     <!-- White text -->
+    <color name="text_primary">#333333</color>   <!-- Dark text -->
+    <color name="dark_text">#333333</color>
+</resources>

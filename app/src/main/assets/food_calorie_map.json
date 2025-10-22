@@ -1,0 +1,12 @@
+{
+  "Chicken Breast": {"kcalPer100g": 165, "typicalServingG": 100},
+  "White Rice": {"kcalPer100g": 130, "typicalServingG": 150},
+  "Apple": {"kcalPer100g": 52, "typicalServingG": 182},
+  "Banana": {"kcalPer100g": 96, "typicalServingG": 118},
+  "Egg (whole)": {"kcalPer100g": 155, "typicalServingG": 50},
+  "Bread (slice)": {"kcalPer100g": 265, "typicalServingG": 30},
+  "Milk (whole)": {"kcalPer100g": 60, "typicalServingG": 244},
+  "Oatmeal": {"kcalPer100g": 389, "typicalServingG": 40},
+  "Cheddar Cheese": {"kcalPer100g": 402, "typicalServingG": 30},
+  "Potato (boiled)": {"kcalPer100g": 87, "typicalServingG": 150}
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SmartCal</string>
+    <string name="today_summary">Todays Summary</string>
+    <string name="food_list">Food list</string>
+    <string name="add_food">Add food</string>
+    <string name="hint_food_name">Enter food name (e.g., Chicken Breast)</string>
+    <string name="hint_amount_grams">Amount (grams) e.g., 150</string>
+    <string name="save">Save</string>
+    <string name="add_photo">Add photo</string>
+    <string name="scan_barcode">Scan barcode</string>
+    <string name="photo_preview">Photo preview</string>
+    <string name="prediction_placeholder">Prediction will appear here</string>
+    <string name="confirm">Confirm</string>
+    <string name="retake">Retake</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="meal_types">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snack</item>
+    </string-array>
+</resources>

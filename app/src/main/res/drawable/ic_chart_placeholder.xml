@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background layer -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#F5F5F5"/>
+            <corners android:radius="12dp"/>
+            <stroke android:width="1dp" android:color="#E0E0E0"/>
+        </shape>
+    </item>
+
+    <!-- Chart Icon (a simple representation of a bar graph) -->
+    <item android:left="32dp" android:right="32dp" android:top="32dp" android:bottom="32dp">
+        <vector android:height="24dp" android:viewportHeight="24.0"
+            android:viewportWidth="24.0" android:width="24dp">
+            <path android:fillColor="#BDBDBD" android:pathData="M5,9.22L7,9.22V19L5,19L5,9.22ZM10,3L12,3V19L10,19L10,3ZM15,13L17,13V19L15,19L15,13ZM19,21L3,21V23L19,23V21Z"/>
+        </vector>
+    </item>
+</layer-list>
