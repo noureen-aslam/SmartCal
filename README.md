@@ -12,8 +12,7 @@ SmartCal is an Android application built using Java in Android Studio that helps
 6. How to Run the App
 7. GitHub Integration Steps
 8. Future Enhancements
-9. Screenshots (Optional)
-10. License
+9. License
 
 **1. Overview**
 SmartCal uses AI-powered image recognition and manual logging to track what users eat. It stores meal data, calculates calories, and gives daily nutritional insights to help users stay fit and meet their health goals.
@@ -103,13 +102,6 @@ Now your Android Studio project is live on GitHub!
 -> Add daily reminder notifications for logging meals.
 
 
-
-
-
-📱 /screenshots/home_screen.png
-📱 /screenshots/add_food.png
-📱 /screenshots/results.png
-
-📜 License
+**9. License**
 
 This project is licensed under the MIT License – you’re free to use, modify, and distribute it for educational or personal purposes.
